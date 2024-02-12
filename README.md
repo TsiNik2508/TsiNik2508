@@ -8,7 +8,7 @@
   <a href="mailto:nikitaandr2508@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="linkedin.com/in/nikita-tsilosani-5367782b4">
+  <a href="https://linkedin.com/in/nikita-tsilosani-5367782b4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkeDin Badge"/>
   </a>
 </div>
